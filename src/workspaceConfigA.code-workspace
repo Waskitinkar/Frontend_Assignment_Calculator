@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Practise\\Practise_3"
+		},
+		{
+			"path": "..\\..\\..\\JavaScript Practise"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\abimbola-app2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "abimbola-app2"
+	}
+}

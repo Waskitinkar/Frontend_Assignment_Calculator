@@ -1,0 +1,11 @@
+.Btn-Wrapper{
+    Height: 4em;
+    Display: Flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    background-color: green;
+    Flex: 1;
+    margin:4px;
+    border-radius: 5px;
+}
